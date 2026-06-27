@@ -1,0 +1,16 @@
+{
+  "name": "bd-alamin-api",
+  "version": "1.0.0",
+  "description": "Key-authenticated API returning a weblink — deployed on Vercel",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {},
+  "author": "BD Alamin",
+  "license": "MIT"
+}
